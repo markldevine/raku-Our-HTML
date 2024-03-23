@@ -1,0 +1,34 @@
+unit class Our::HTML::Global:api<1>:auth<Mark Devine (mark@markdevine.com)>;
+
+has $.accesskey
+has $.autocapitalize
+has $.autofocus
+has $.class
+has $.contenteditable
+#as $.data-*
+has $.dir
+has $.draggable
+has $.enterkeyhint
+has $.exportparts
+has $.hidden
+has $.id
+has $.inert
+has $.inputmode
+has $.is
+has $.itemid
+has $.itemprop
+has $.itemref
+has $.itemscope
+has $.itemtype
+has $.lang
+has $.nonce
+has $.part
+has $.popover
+has $.role
+has $.slot
+has $.spellcheck
+has $.style
+has $.tabindex
+has $.title
+has $.translate
+#as $.virtualkeyboardpolicy
